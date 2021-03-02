@@ -1,0 +1,7 @@
+first question: "how to make a hidden directory and how to show it on command line"
+answer1-1: to hide a directory if we are in the corrent address of file, we can use "attrib "foldername" or "filename" +h
+ to make it unhide again we can use "attrib "foldername" or "filename" -h
+to show the list of hidden file: we can use ls -a
+question2: how to create multiple nested directory
+answer2-1: we can use "mkdir -p parentfolder/child1/chide2/child3" etc
+
